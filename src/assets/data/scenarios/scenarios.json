@@ -75,7 +75,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f91d03a8-ac84-413f-99c6-8b546bdaa886",
+                        "id": "282b254e-b650-4c48-b2aa-3e3c63ed6096",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -121,7 +121,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "ae15fdb5-d502-4ea8-b8c5-8490dc49a195",
+                        "id": "98c15e3b-98ed-4940-a920-0fb1cee886d6",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -131,7 +131,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "b13458fc-05f4-417a-b769-22337c594c57",
+                        "id": "aca76222-f430-4c2f-898a-14e723d5dab3",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -177,7 +177,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b7d6cc2a-3d75-4176-b53c-1e6097234355",
+                        "id": "3aadc974-2721-4034-8571-9ad144b679b3",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -187,7 +187,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "3d779e1a-7608-4814-9187-49e3c9f2cb89",
+                        "id": "0a62499f-bdfe-4cbb-ae69-727bedc57ea5",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -233,7 +233,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c458ab71-813e-4952-8081-f02d363f38bc",
+                        "id": "6f394877-8c7f-4874-99ed-b95f6efde39e",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -243,7 +243,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "71b1b05e-37d5-4f55-8006-500478278911",
+                        "id": "a5b9e722-eca8-4266-b4fb-43a39c8ce2d3",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -289,7 +289,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1d064051-6e49-4f8f-b3b1-2aaf4fc080c4",
+                        "id": "ceb6da8c-25e1-4a5e-8ed3-eb98cdb0ef1e",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -299,7 +299,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "597b485c-a088-4da1-95cb-65d34dc369af",
+                        "id": "3e6dd5af-144f-4145-978c-95f245314520",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -415,7 +415,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9afb626a-bc52-403a-a699-a9dd82eef2a1",
+                        "id": "272522e4-fbc5-419a-9890-002c436798c7",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -461,7 +461,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "12cdb9f6-fd89-40d0-a995-842a9f0659f8",
+                        "id": "19db75b3-a626-43e7-95c1-e8f5a1b4e406",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -507,7 +507,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d885b490-d7e5-4c3d-96e1-15bd2fe779eb",
+                        "id": "1785adcb-2ccf-4c9b-b582-1657ebe2dff9",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -553,7 +553,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6a025e6e-dc04-446a-a91b-61f12d689a46",
+                        "id": "877916a9-f32e-4a52-995b-c5f17dabe76b",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -634,7 +634,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "209044ff-8bf2-4dab-a89b-fd6bdf96bd5e",
+                        "id": "66e32521-7db6-4e09-900b-c268a7b39abb",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -680,7 +680,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9a27e399-7c16-4501-9e5d-9067e7f33a30",
+                        "id": "f072049e-997b-468c-9558-7481fa6be06e",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -761,7 +761,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d741ef98-c311-450e-8396-1c202602d59b",
+                        "id": "ccdd367e-1daa-4ea9-a6a9-9bd462569fcb",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -842,7 +842,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9a431142-73b1-4401-b213-337035e09e52",
+                        "id": "84aa7cc8-d9c2-4ab0-886d-0eca6a7af083",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -888,7 +888,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "917f66d3-2400-4ae9-a301-8cbeb4b37a1f",
+                        "id": "f44b9f71-3ed9-4b80-8123-81d71200159f",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -969,7 +969,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b04fe1d6-ab4b-4a02-8cc9-7757c10aa4ee",
+                        "id": "90f84cc9-eddc-417d-8cef-b4994d39d4e2",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1012,7 +1012,18 @@
     {
         "allParams": {
             "containment": {
-                "mitigationIntervals": [],
+                "mitigationIntervals": [
+                    {
+                        "color": "#bf5b17",
+                        "id": "1d5fd9c3-1534-46bb-bac1-94e8c14f952b",
+                        "mitigationValue": 30.0,
+                        "name": "Intervention #1",
+                        "timeRange": {
+                            "tMax": "2020-09-01",
+                            "tMin": "2020-04-08"
+                        }
+                    }
+                ],
                 "numberPoints": 15.0
             },
             "epidemiological": {
@@ -1050,7 +1061,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "997dc76f-7def-4384-81a3-96ffe7078fa3",
+                        "id": "da83468f-6f6e-4fa3-b389-47e168f78857",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1096,7 +1107,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "70970301-7adb-4249-a47c-f2620a682fc4",
+                        "id": "871599cb-2ca6-424f-8bb2-36962980b6d4",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1212,7 +1223,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "4f584034-90db-4a6d-aac1-3c666a8b748b",
+                        "id": "daf0562c-0a6a-4053-9b43-4149727bf075",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1258,7 +1269,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c38f3761-3d6e-4980-8c22-cfd72805d5fb",
+                        "id": "6afdcaf5-4a74-4b75-b16a-f191c5560c45",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1304,7 +1315,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1c762d9f-9a07-482d-a93b-5872520def74",
+                        "id": "59103252-be60-4d06-9c26-f9f2c4e49109",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1314,7 +1325,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "52544741-89a2-4f05-914e-5e6f56e43b6f",
+                        "id": "c28b28fc-6783-4e33-8edd-8ca83fe899f7",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -1360,7 +1371,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "21633e37-f889-445d-bb40-13639847d3ed",
+                        "id": "560e8f31-8ef7-464d-a131-69363a802865",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1406,7 +1417,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "726abd16-b072-4f3c-b3de-379581953258",
+                        "id": "a15c3030-5537-446b-b8c8-1f9387e75562",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1452,7 +1463,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "75d25b4c-cfb0-425c-9d70-2d76ea243b39",
+                        "id": "5a6d02ac-24a3-46d9-a17f-90f44985e826",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1462,7 +1473,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "5999cf4d-5441-45b5-82ab-53fb45713d5a",
+                        "id": "fdc99c68-6756-40cf-a61a-9b3600f38a64",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -1508,7 +1519,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "48cd8424-8d33-474b-9f62-6d3c433dedb4",
+                        "id": "762e1cb0-89c9-483d-9920-fe8f2f0f5d3d",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1518,7 +1529,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "20f4152b-3432-4e1a-bf1a-6c4ecb1bb417",
+                        "id": "603853e1-b22c-400a-ad88-896598ed2fe0",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -1564,7 +1575,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "bcb47e58-cc93-439d-9f5a-945a0e0f8820",
+                        "id": "78d57098-5a0e-4d3f-bd9b-106e60c73b70",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1750,7 +1761,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "465bc746-006b-42e1-abbb-f656891eeb33",
+                        "id": "f87c101f-84a2-4e10-b57a-2df48e0fd25d",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -1866,7 +1877,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "5f0498c1-6cda-460a-8250-df75391d981c",
+                        "id": "82255f83-cdf5-4a9b-ae10-08ff5f064ed3",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2017,7 +2028,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "aee7c14d-37dd-49d6-95df-1ffe3682ee2b",
+                        "id": "b688753c-3c68-4c5f-a83e-db93908a0541",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2063,7 +2074,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "728d6946-5cf3-4979-8138-8da426a1442a",
+                        "id": "3d559c6c-f34c-46f5-9b9a-ca03eca82251",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2109,7 +2120,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d3482e3a-06d7-462f-a7e2-cbbe0a2cf99f",
+                        "id": "47a37474-d144-407d-b05b-3de908263b36",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2155,7 +2166,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "76302646-6595-4149-89b7-0539e935ba98",
+                        "id": "c1adb884-d486-461e-b960-fede795e7c84",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2201,7 +2212,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "845af7b1-ab4e-4e89-a5e4-a2bba504448e",
+                        "id": "6f1d2c2d-ea93-4ca1-918f-58b18cab2e8e",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2247,7 +2258,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "101e2228-725d-4577-91fa-b3959be10be0",
+                        "id": "eb3db790-904d-4453-953a-d42512374b52",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2293,7 +2304,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9857a673-8f9c-403f-b465-45e14a7c636c",
+                        "id": "4c61fd0f-4452-4bdb-92ff-aafb7a2da162",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2339,7 +2350,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9f408452-b51b-4b5b-9915-1b18df09e2b4",
+                        "id": "8cd6edc6-85ca-405b-9dd6-9560ecaf0010",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2385,7 +2396,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d4c43daf-b022-461f-bc86-be200100c25d",
+                        "id": "57b63266-2a53-47c3-9c5c-fd67ae269c8a",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2431,7 +2442,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "dc88a190-b8c0-4714-9f22-0aa3726568eb",
+                        "id": "0dae3449-c4ac-4bfe-9454-0ee7153c2a87",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2477,7 +2488,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "316a40c8-b46d-4751-ace5-f35fbf4a779b",
+                        "id": "cf93bd48-1e9b-400c-b6a9-92864d330d70",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2523,7 +2534,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "45eece71-0d8c-4257-908c-031e67c2b395",
+                        "id": "fcf05c2d-bd3f-4c77-bf7c-9d61bee0f1d0",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2533,7 +2544,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "7e8d8383-49ca-4334-98b0-e7481011f660",
+                        "id": "536077f2-bc6d-4421-bf81-cec6a94fd6dc",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -2579,7 +2590,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e58d016a-fcee-494f-a087-e72bf04d60fb",
+                        "id": "3a2ec993-09f3-4239-abfa-f5eeb5503354",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2625,7 +2636,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "dbfb7d87-91f8-440a-be83-e877d947d700",
+                        "id": "56e5c35c-b7dd-42c8-89da-baa212851426",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2671,7 +2682,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "88dfc555-6f01-4cd8-9063-47822a3482cf",
+                        "id": "4c369d87-e268-48dd-afbf-5b8e4b81a374",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2717,7 +2728,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "787b6e2a-0082-440e-b3f7-5e2da7dca64e",
+                        "id": "b2d35a83-6d94-4325-ac79-17e6bd7c1520",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2763,7 +2774,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b4247427-529e-4bbb-9080-550415896905",
+                        "id": "edc57979-0092-455d-9961-71f5a3a1b3fb",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2809,7 +2820,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "5595dd09-a427-48f8-bc05-4b9b0cf2e4a0",
+                        "id": "2733cb1a-0e8b-41da-a547-ee5fc602b145",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2819,7 +2830,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "106f589e-96d8-4600-badd-db50382e43e4",
+                        "id": "b78af40f-b84b-4605-bf05-cc30fd885349",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -2865,7 +2876,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "66905706-6df6-4124-9afb-0d3c03722b53",
+                        "id": "2d5789da-a6f9-427e-878e-32f8c5582e13",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2911,7 +2922,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "8d95201c-235d-4bf5-a1bc-67ce490f436f",
+                        "id": "c5681d14-a8e9-4115-a177-554dc1a66849",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2957,7 +2968,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "93968ef0-5a22-4eb8-9c18-5ac6ef713b31",
+                        "id": "6b180932-8d93-4e5e-8085-e430b18cc1f1",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -2967,7 +2978,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "28259696-98b6-468a-a9b0-88b0d55b44bb",
+                        "id": "3d02f48e-eda8-45d7-a28a-582f18c5eb46",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -3013,7 +3024,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "cf035de3-b3c4-48aa-9c3a-f226d7542e39",
+                        "id": "9829c7f4-87c0-4660-911f-921f14cf86e5",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3023,7 +3034,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "512a527b-9367-4327-82dc-1875c6d54ad3",
+                        "id": "33603448-7a6a-4537-9452-4dd73caf0292",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -3069,7 +3080,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "33b33b2e-33ab-4252-809c-6f7678ad4657",
+                        "id": "1a469cfa-29ec-4156-aa74-ef84153d51a9",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3079,7 +3090,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "8feb53fe-dfba-4390-81d0-04944135bb5e",
+                        "id": "5778b1e9-b84c-4138-9075-ce962740b149",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -3125,7 +3136,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b9f910b4-6e8c-481e-b989-25bd535b317a",
+                        "id": "c412c777-35df-4beb-a862-8abfd12384cf",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3171,7 +3182,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "15d9d4ef-73b2-4acc-b7be-18083a756eaa",
+                        "id": "904b6fd1-7b16-4ca9-8d3b-ee47fb4abd84",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3181,7 +3192,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "98384ae5-3b60-4ecf-a681-f843180da50c",
+                        "id": "3f038867-267c-41e3-a096-5699bd3b187c",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -3227,7 +3238,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "14f13a03-697d-454e-a430-2a0c87d49a74",
+                        "id": "14039979-e745-4c23-8326-9b3e7e57080e",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3273,7 +3284,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1610d665-46a2-48c6-8c81-92156f50f95b",
+                        "id": "a10e7e78-0655-4390-943a-b4d13256905c",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3319,7 +3330,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "4e73d345-f3c7-4fc6-9d5d-6a1fb5a64982",
+                        "id": "e6fa7e54-8285-4ffe-a4c4-a4b8135ebe08",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3365,7 +3376,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f41b9b6a-bfaf-4df3-8ecc-2984fc469d82",
+                        "id": "c9190e7d-06a8-4399-b892-379792fae8dd",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3411,7 +3422,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0d10e1b1-bbc7-4315-8ab3-1c1912c76731",
+                        "id": "d3b2592d-d4c5-4a89-bdbb-ca730c3f9b15",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3457,7 +3468,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "5c276fb2-5e17-437c-9ccf-46a7168f019d",
+                        "id": "e18ab46a-b5dc-4caa-91c8-9ec0949b73f4",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3503,7 +3514,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d911938e-feb4-4cf8-af89-d01e6ce32e62",
+                        "id": "93df152c-0688-4fe6-8848-19725ba4ac27",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3549,7 +3560,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6c146e53-9f5a-4890-ae35-86c15fe9ae39",
+                        "id": "bea9aa21-412d-49b0-ace8-214088047469",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3595,7 +3606,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c0c725d8-a12f-4bc6-8699-ffebc0640b3b",
+                        "id": "73d82196-8586-4f4e-ace2-4d2bcec09513",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3641,7 +3652,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c8ef915b-139f-45f0-99c9-abed8fb8e9bc",
+                        "id": "c8762148-81bd-49a9-8300-1976f2ae464b",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3687,7 +3698,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9f04ef2f-cd7e-4f9b-a8ad-3674ff519b93",
+                        "id": "7b6c153d-2db7-4da5-97d2-b5a30aa93fd2",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3733,7 +3744,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "512a7d4c-fc3d-4aea-83af-441724add8fa",
+                        "id": "366e805e-b70f-4d30-b456-147afc851a03",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3779,7 +3790,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6ee465d5-fd60-43ba-82d0-e7c8c54d2bc1",
+                        "id": "40fb788e-66fb-4762-958a-7caa3cf4442c",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3825,7 +3836,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "04a80146-6379-4752-be9b-d6762c8ea46e",
+                        "id": "839f4188-a894-4f7d-8648-05fb40046f81",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3871,7 +3882,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "55cb4459-c5ac-4e5e-99cb-e12be29db254",
+                        "id": "dc2ff07c-2f46-4b9e-8ea0-3b963a9534d0",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3917,7 +3928,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "76a41bad-3897-444f-aec1-096bd66a8568",
+                        "id": "4fb39e77-6253-4d18-beb4-e355337658ea",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -3963,7 +3974,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "a20823cd-faa7-4055-be17-3f8a8e0bc32f",
+                        "id": "bd6e29c0-789e-4f3f-8e2a-c0fc23f2d943",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4044,7 +4055,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b3eb00a3-7f64-44b3-9e80-2a5569d739df",
+                        "id": "60bfc6e6-0b5d-475c-a40e-17176ad16c6d",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4090,7 +4101,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "04501efb-ede8-4e3c-befd-3fab86397bbd",
+                        "id": "84319c8e-5065-42fe-babf-26e1a30e20a4",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4136,7 +4147,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f55a04df-bede-4066-b998-da42d7108261",
+                        "id": "bedb99e5-624d-407a-8b0b-9cabf343168e",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4182,7 +4193,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "ceaec814-08fc-4f50-87bc-1cd4896c8f28",
+                        "id": "7627d749-95d1-4e84-9bff-aeaee2d1b1ae",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4228,7 +4239,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1c9b0ca7-91dc-43ad-be74-3cdcd887ddbd",
+                        "id": "8659f383-a951-4bc6-ba40-a35f89e54f8b",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4274,7 +4285,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "cead9c9c-d034-48fb-8f26-ff3712d8365d",
+                        "id": "2a6fd368-ef67-4978-abac-659622ba853e",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4320,7 +4331,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "cbd1750e-d141-4c95-b508-a0cbb15bbb8e",
+                        "id": "4d24b109-a8ff-4b96-bb29-80601a0f55e2",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4330,7 +4341,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "ad645b75-8da4-437f-bacc-dc59e3aa2916",
+                        "id": "42a990ed-4fb9-4d4d-b502-35fa48e00de6",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4376,7 +4387,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b526b3c3-01b6-4dcd-903b-f8bf223ab03a",
+                        "id": "f8c33192-2c35-4994-8874-43430722639d",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4386,7 +4397,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "1a8d35c2-3105-46e6-9e19-b2e2c14f54ba",
+                        "id": "046b697a-588f-402d-868d-45a875b5416b",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4432,7 +4443,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6ec0c05e-fc3c-49e3-a7c1-0906e44e58f6",
+                        "id": "53024b61-1536-44b0-80ad-352a890a279e",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4442,7 +4453,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "a92b5e2c-9c78-41a9-9c44-ff4cfffccd13",
+                        "id": "282ea9fc-0156-4450-90c4-4bde2ae795c8",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4488,7 +4499,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9e29f41f-c75c-4882-8678-2a409b432117",
+                        "id": "15596bcc-b6a1-4799-9e0e-d76908189ff8",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4534,7 +4545,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "309e35d1-b93e-4530-9d19-0c8bcac4b61a",
+                        "id": "38b43fcb-c2c6-48ec-afe6-424cd3862860",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4580,7 +4591,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6302b355-f58d-42d9-a9d5-60f4d0aea776",
+                        "id": "8c184bf8-9f77-4fe1-b4db-a589d936f824",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4626,7 +4637,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c9865692-99cf-4202-9e85-4e626331b818",
+                        "id": "b24aef66-f109-4a98-ad8f-07400a646571",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4672,7 +4683,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "78dc0c61-3819-47d1-a475-9d1ba1bff70c",
+                        "id": "db7927c7-dc54-484a-9400-6ac01d58a922",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4682,7 +4693,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "a5fe84bb-47eb-4c96-b976-99bb18b46006",
+                        "id": "5d0fa9f0-9677-45a4-b050-8ea8c52eddb7",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4728,7 +4739,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "74a8cd8e-db3f-4bea-b530-8fc96692eb8c",
+                        "id": "d683168b-4fdd-4436-9ce2-89ea936f9e1a",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4774,7 +4785,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b7791f97-29fa-4c6d-b7d3-fa5d3f17dfb3",
+                        "id": "0203bb89-8cb8-499a-8b65-aa2d25a92e48",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4820,7 +4831,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "20d90d54-04df-43f2-a2c9-439b33227875",
+                        "id": "7eaa5291-ab4a-45b8-8b38-832cc91486b7",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4830,7 +4841,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "b2103af3-dfc1-48de-bc8e-8d0cf26c7d12",
+                        "id": "ad72c735-84a5-4926-a831-4899580e6e37",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4876,7 +4887,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c1cc8674-c97d-428e-8966-169b6c906b68",
+                        "id": "a402db75-a55b-4619-b694-8e4a286f719c",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4886,7 +4897,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "5d4dc1b9-0aea-49e6-963d-548db6a47ab9",
+                        "id": "4002dbd3-01c7-40b3-9e74-67534af249ac",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -4932,7 +4943,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0dc9e21d-bf32-4550-a0a7-2859d08c0a39",
+                        "id": "8898ef8d-8e3f-4a15-9a42-75cb08de3387",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -4942,7 +4953,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "ae03d039-e6ff-4e32-b20d-d38d10e3ae38",
+                        "id": "489f650f-44a8-49e8-bc94-e9dddb14009c",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -5023,7 +5034,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e225bd54-b1ad-4b2c-9cbd-6d89ab7a037b",
+                        "id": "33acff00-71a7-4b4e-9de0-48b8338d3534",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5033,7 +5044,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "d7ff7dcb-5793-45f8-8f3f-7f8574c0bbdc",
+                        "id": "8c405256-d64f-484c-954c-0a5428db164d",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -5114,7 +5125,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "26065728-61fb-4052-9ccb-de3a877ff331",
+                        "id": "bcd01c90-0774-4cf1-9bb5-a047d7564e3b",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5124,7 +5135,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "c7b9e91a-34e9-430c-ab03-54a235d5019a",
+                        "id": "b3a17093-9702-4f11-8e4b-97233ad994da",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -5205,7 +5216,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "37bfecb2-a31f-4049-a1e0-a587252558cd",
+                        "id": "ead3fff5-6188-491e-9a84-2fba26d70a63",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5251,7 +5262,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "dfc5bc20-c5f7-4dd3-9900-fcaeba500b85",
+                        "id": "b65c470f-128b-4d64-90a9-2a797dbe1c9b",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5297,7 +5308,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c11b154a-5eba-4d12-a823-4b2ce6ea78ce",
+                        "id": "3b5cfa91-1b5b-415c-b763-8ec81face952",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5307,7 +5318,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "a5ee2297-8a74-405b-bb0d-2ee9327921b3",
+                        "id": "a121b484-488b-466a-a575-0007b21e5a6e",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -5388,7 +5399,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0b18ac4e-4475-49fd-b037-7ca214b7cd80",
+                        "id": "66243ebb-3e47-4bdf-b7e2-d2be7669b49a",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5434,7 +5445,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "291cc836-5691-45e0-85d1-3116940120f4",
+                        "id": "5eb6a505-d825-4d64-a10a-5fe89df2f255",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5480,7 +5491,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c56b76ba-4823-40eb-81c6-e4f057807596",
+                        "id": "54c68f2a-4798-4a0c-bffb-6e381bd854af",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5490,7 +5501,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "4f535f93-3644-4505-9d38-3d4537de2f6b",
+                        "id": "369a1774-439e-4d04-9caf-981a39b8b91e",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -5536,7 +5547,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "3f0b9599-f503-42c4-b810-c9dde1c8500e",
+                        "id": "68674f34-9533-4335-b117-f928a6a8b1c1",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5582,7 +5593,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "678b4ee6-ab7e-4a95-a4b7-8c1fda50186d",
+                        "id": "abc8c8c8-7ab6-4a3c-9b4e-75e4dcbc5e9f",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5628,7 +5639,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b4ed0dc5-dc67-4761-a596-c9472c3b300d",
+                        "id": "a4509f8e-bd7c-463a-9155-8772641d940d",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5674,7 +5685,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0e82a25d-4f0d-467c-af94-ffde9f3c2469",
+                        "id": "33f3c1ab-2ee6-44ab-adfd-d68f691d151c",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5720,7 +5731,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f5869e63-e5eb-46bc-aa93-a04694a8dbe2",
+                        "id": "cfe87206-164f-448f-94e7-1906db2b78a7",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5766,7 +5777,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "3aa744f8-6936-4d00-b785-e044ca593b01",
+                        "id": "7b64d50c-3c4d-49f2-98eb-78cbb02a8038",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5812,7 +5823,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b5243d3e-356b-4c8d-ab24-deffb7617605",
+                        "id": "963ec603-747d-4f3e-9bf7-ba2bc3d6b077",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5858,7 +5869,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "3c833fdc-ec2a-4972-8928-1896553e71f7",
+                        "id": "c4f17a6c-440c-4e5d-bca0-6f264ef22f25",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5904,7 +5915,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "fc7d0abd-8cf3-4586-992d-ef9d6f6f2b38",
+                        "id": "c9d34968-23d9-4d45-86a9-7015249d67ae",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5950,7 +5961,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "888bedb1-26b4-4032-99ed-16c4e6737e3d",
+                        "id": "faac5b1e-0a66-497c-a322-873a7c9034ff",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -5996,7 +6007,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b2c5a5d6-1aee-45f4-bf08-3f8800ef9776",
+                        "id": "ad4f476b-6c72-43a7-8328-ffce35b34f6e",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6042,7 +6053,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d22baa24-11bc-42c9-904e-1fa149a01531",
+                        "id": "c284633b-528a-43fb-8cfd-a476423f99e4",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6085,7 +6096,18 @@
     {
         "allParams": {
             "containment": {
-                "mitigationIntervals": [],
+                "mitigationIntervals": [
+                    {
+                        "color": "#bf5b17",
+                        "id": "d44cf2fc-c33c-48af-afa1-313122ed99f7",
+                        "mitigationValue": 20.0,
+                        "name": "Intervention #1",
+                        "timeRange": {
+                            "tMax": "2020-09-01",
+                            "tMin": "2020-04-08"
+                        }
+                    }
+                ],
                 "numberPoints": 15.0
             },
             "epidemiological": {
@@ -6123,7 +6145,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "8fa0a947-0709-4ea0-b67d-428c1ec18157",
+                        "id": "5393bcc8-1cde-485f-8eb4-3ae46093a9bb",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6169,7 +6191,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "33b9f69d-e092-4c7d-a21b-10c44547fabb",
+                        "id": "ba5e1558-44b8-4540-80c6-264b6123c2db",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6215,7 +6237,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "dbddb7f6-f692-4d92-8eb9-5b5c21e6cb10",
+                        "id": "2f084374-f891-4e41-9c9d-bf17346f6f40",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6261,7 +6283,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "085c2780-b3f7-4286-88b0-06d546237ae6",
+                        "id": "81dc72c4-4177-40db-b8c0-ef4410694bc5",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6304,7 +6326,18 @@
     {
         "allParams": {
             "containment": {
-                "mitigationIntervals": [],
+                "mitigationIntervals": [
+                    {
+                        "color": "#bf5b17",
+                        "id": "d696e542-7d4c-428d-9852-e38e7eb439e5",
+                        "mitigationValue": 60.0,
+                        "name": "Intervention #1",
+                        "timeRange": {
+                            "tMax": "2020-09-01",
+                            "tMin": "2020-04-08"
+                        }
+                    }
+                ],
                 "numberPoints": 15.0
             },
             "epidemiological": {
@@ -6342,7 +6375,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "7642f7bf-965a-4bf2-81ca-ef776242a48a",
+                        "id": "118e4ed6-19a5-4d50-aa59-efb47f86d0a5",
                         "mitigationValue": 70.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6388,7 +6421,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "8fa40ba2-60b8-4ea2-8994-7a6903cebe6d",
+                        "id": "2c43ee0d-0f0d-47b9-a987-5fdecd6240ed",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6504,7 +6537,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "cbe0ceff-c078-41e3-8290-2ceb80583135",
+                        "id": "408645f7-279d-4415-8525-1e58f02b0e08",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6585,7 +6618,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e54feded-5e28-451c-89c9-459b0ed0257a",
+                        "id": "f413307d-4485-4abc-a663-b36491a44b22",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6631,7 +6664,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "6132c859-1fce-4a7b-bf4b-07476a11134b",
+                        "id": "cbca8200-8d89-484c-bade-4a13b481e5a1",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6677,7 +6710,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f4f4ca20-0485-49ea-8fe5-173a10a08ff3",
+                        "id": "a0527429-4d23-46e1-8357-f2d2c72c146b",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6758,7 +6791,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "93524273-66f5-47d1-9573-3ed4faeadc2e",
+                        "id": "7f9d3eae-e8b7-4792-b944-563a6d80a2fb",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6804,7 +6837,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "83429919-75b1-4968-ab79-ec45ad300c4c",
+                        "id": "84c4fbf4-f058-433a-813e-847cb7447b00",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6850,7 +6883,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "a15e1414-96a7-40ee-a223-c440a5aff68b",
+                        "id": "fe5c2546-591b-476e-b580-951686cc74b8",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6896,7 +6929,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e001e228-3fa8-4b5f-9136-02a993ea7563",
+                        "id": "517c2a88-536c-41ef-a2f2-0dc594076b66",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6942,7 +6975,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "4bac6efa-c7d5-4e86-8e0f-3735535dd2ef",
+                        "id": "94bf61ae-34cd-4246-af57-6dd0cc9922f2",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -6988,7 +7021,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "7faed19c-2dd1-4594-9ef6-2079e49a4597",
+                        "id": "81cad02d-55e1-4cf9-893c-2a3804e4ba43",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7104,7 +7137,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f46b3db2-9e59-47f8-bbe9-73a22375c5ac",
+                        "id": "fbf4e11f-fd9a-4b72-996c-760e397b1434",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7114,7 +7147,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "6779f5f0-3838-4380-9faa-26e932edbdea",
+                        "id": "808637ca-f20d-4937-8536-eb2ee2d1bcf8",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -7160,7 +7193,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b83cb97f-7687-4316-88ac-fed94d903238",
+                        "id": "0122bdb2-23c3-49c4-91e7-60ea75fa1270",
                         "mitigationValue": 70.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7206,7 +7239,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1420571c-4e22-40e0-bc99-b0d986b0700b",
+                        "id": "c66c8dbf-26a1-4585-8cfe-e50d323d9ac9",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7287,7 +7320,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "30b39fee-535e-41c4-ba74-82264b0dc3c2",
+                        "id": "e127888c-3790-4621-b1e1-aa20f4f2b501",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7333,7 +7366,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e8fddd0f-5d46-420b-9f16-e4501c1e0858",
+                        "id": "dcf16b49-0d08-4ef8-adb6-1febc60c0c85",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7379,7 +7412,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "e9410bb9-3707-4951-b9d2-56b8e4f6faa5",
+                        "id": "24ae105e-b965-4de3-8ddf-f7f6e1be1068",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7425,7 +7458,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "eecbfab6-fc53-4a19-abbc-d8642d0301d5",
+                        "id": "8b9444a5-050f-4876-83ad-9cf9e98ff6f1",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7471,7 +7504,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d5b27241-e5fb-415a-b739-b30285fb9532",
+                        "id": "10ea6b19-c929-405d-bc8f-2b4fdc99fe36",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7517,7 +7550,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "98d83422-c77c-4339-9417-322326435564",
+                        "id": "5354aebd-998f-4152-a15b-23e9523ae0e9",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7563,7 +7596,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "48706806-c0e3-4382-afd8-d7634b678508",
+                        "id": "8a67327d-2d62-4b82-90c1-ff40a7a5f0c3",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7609,7 +7642,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "696d8292-44c9-446e-baa3-c0fc7d0dfec5",
+                        "id": "ade6b2de-f978-4fd3-a9b8-651e20171eab",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7655,12 +7688,12 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9f8344b0-7e1b-487f-bb09-c83d8c1fe9ea",
+                        "id": "cafaabd6-2925-479b-81fc-cb3b859387bc",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
                             "tMax": "2020-09-01",
-                            "tMin": "2020-03-25"
+                            "tMin": "2020-03-23"
                         }
                     }
                 ],
@@ -7701,7 +7734,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1e4c4c97-62f6-4f7a-a4aa-49aa9d703357",
+                        "id": "946ad34e-e4fa-4eb8-9274-72fa6ab973a0",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7747,7 +7780,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "4c72e7da-80bd-436c-ac96-61cb16065b2a",
+                        "id": "8526543d-4f17-4000-8792-080712a9c0e0",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7757,7 +7790,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "140c6f17-23c3-4272-a4d2-6ec9d916f592",
+                        "id": "ae57b550-4467-4176-903c-1d9812344abb",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -7803,7 +7836,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "441e17d2-00ac-4b72-9c9c-1a1dc0463863",
+                        "id": "c21831a5-86ce-40ac-8547-bcb9bec2e03a",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7849,7 +7882,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "dd4da987-c777-4403-9064-97687218f019",
+                        "id": "d91c9371-937d-44a2-b384-8ca60ffbeafe",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7895,7 +7928,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "8dde6ed1-6d6c-416f-94da-e3b0ee1bc38f",
+                        "id": "0041e026-873e-456b-8c18-be609a357424",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7941,7 +7974,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "d97ef40a-3c29-43d1-8bac-8468f704d224",
+                        "id": "b128c707-c71d-430e-aad4-fe4bf0cefa7b",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -7987,7 +8020,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "c1a029d9-6d9c-4ef0-af0b-e69f1b6e0879",
+                        "id": "bc561292-9a84-48ae-93ba-d161694a86f2",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -8033,7 +8066,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "44649857-a7ed-439d-b9d7-f03164181e0a",
+                        "id": "18e8b452-9eb2-4228-831c-c918a2f30570",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -8079,7 +8112,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0ea6b331-3122-4a0a-8033-3b84322ffa74",
+                        "id": "4de45705-f4fa-41ba-96af-f5b51f5d97d8",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -8089,7 +8122,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "80479dd8-4706-4464-8122-454cafc4f429",
+                        "id": "7c584746-233e-4a5b-8078-223ff29211a6",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {
@@ -8135,7 +8168,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "1f2725e6-d7ce-484e-b577-44b44e01e476",
+                        "id": "d16e557d-4d4e-462c-a773-90918aeccf0f",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -8178,7 +8211,18 @@
     {
         "allParams": {
             "containment": {
-                "mitigationIntervals": [],
+                "mitigationIntervals": [
+                    {
+                        "color": "#bf5b17",
+                        "id": "447ebe38-f709-407b-a205-6c492a38a22b",
+                        "mitigationValue": 40.0,
+                        "name": "Intervention #1",
+                        "timeRange": {
+                            "tMax": "2020-09-01",
+                            "tMin": "2020-04-08"
+                        }
+                    }
+                ],
                 "numberPoints": 15.0
             },
             "epidemiological": {
@@ -8213,10 +8257,45 @@
     {
         "allParams": {
             "containment": {
+                "mitigationIntervals": [],
+                "numberPoints": 15.0
+            },
+            "epidemiological": {
+                "infectiousPeriod": 3.0,
+                "latencyTime": 3.0,
+                "lengthHospitalStay": 3.0,
+                "lengthICUStay": 14.0,
+                "overflowSeverity": 2.0,
+                "peakMonth": 0,
+                "r0": 3.0,
+                "seasonalForcing": 0.0
+            },
+            "population": {
+                "ICUBeds": 1000,
+                "cases": "USA-CoastalBend",
+                "country": "United States of America",
+                "hospitalBeds": 10000,
+                "importsPerDay": 0.1,
+                "populationServed": 10000000,
+                "suspectedCasesToday": 10
+            },
+            "simulation": {
+                "numberStochasticRuns": 0.0,
+                "simulationTimeRange": {
+                    "tMax": "2020-09-01",
+                    "tMin": "2020-03-01"
+                }
+            }
+        },
+        "country": "USA-CoastalBend"
+    },
+    {
+        "allParams": {
+            "containment": {
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "11e186d6-ba72-49b2-9fb5-a30a4cfefa8e",
+                        "id": "839ca258-0479-4635-94fe-c0a00394c5e2",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9592,7 +9671,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "b9e47ac2-2eeb-4f4a-8e78-cb73f8f1ef13",
+                        "id": "91cde075-1b94-4ba5-95b8-cdbe0baefa4a",
                         "mitigationValue": 50.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9673,7 +9752,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "204bbbfb-d33a-4ca8-b1df-c57b30fb6958",
+                        "id": "4f454919-25ec-4351-a69f-15051197c710",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9719,7 +9798,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "15a51db5-a584-4be3-bbf8-a04445cbd028",
+                        "id": "63c179b1-425a-459c-9ff8-87900be4b8f5",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9765,7 +9844,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "60fa7ef4-5854-4da7-8125-86997c20324b",
+                        "id": "8f4ec384-e33c-4527-a348-f183305b5e6e",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9811,7 +9890,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "59a21b2a-9ba2-4710-8ccd-6643c3e68da0",
+                        "id": "1e795c64-67ab-41d8-a347-76fca2d2bfe1",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9857,7 +9936,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "f56f0250-aa2e-41c7-8f39-3c387e7a2988",
+                        "id": "cf0d2edb-97de-4e47-aba1-acb02398f33b",
                         "mitigationValue": 60.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -9973,7 +10052,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "3f29f320-445f-4bc6-bac8-7a913249b814",
+                        "id": "9f2134db-59ed-42d7-aa11-20a6ae88ab6d",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10019,7 +10098,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "9385328d-bac3-4a4e-afd7-35e47525da24",
+                        "id": "598b0779-e140-41da-84a2-dc3d4f3f8e1b",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10065,7 +10144,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "71c6344f-272f-4f94-8e63-1dc8b7eda558",
+                        "id": "8c34a421-0283-4066-b9e0-a4aa65eb2ebe",
                         "mitigationValue": 40.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10216,7 +10295,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "0cf2d0c2-0d9e-41ff-b6c6-ed493cca7190",
+                        "id": "15190f4f-921e-43a8-a618-9869e0fece82",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10262,7 +10341,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "84b6187f-5dd1-4952-a377-3bde352d0506",
+                        "id": "78b2a568-d552-4066-8f3f-70e332624999",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10308,12 +10387,12 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "26390e92-90fe-454f-b0c3-9d5657a88309",
+                        "id": "bd1db499-5730-41c7-a71f-45079998c059",
                         "mitigationValue": 30.0,
                         "name": "Intervention #1",
                         "timeRange": {
                             "tMax": "2020-09-01",
-                            "tMin": "2020-03-26"
+                            "tMin": "2020-03-28"
                         }
                     }
                 ],
@@ -10354,7 +10433,7 @@
                 "mitigationIntervals": [
                     {
                         "color": "#bf5b17",
-                        "id": "32d28acc-8776-4316-9560-f6a536ac2861",
+                        "id": "782b4a38-1899-442c-9f81-cd0ec3c531df",
                         "mitigationValue": 20.0,
                         "name": "Intervention #1",
                         "timeRange": {
@@ -10364,7 +10443,7 @@
                     },
                     {
                         "color": "#666666",
-                        "id": "25a1e438-0ae4-4f66-adeb-642abe620129",
+                        "id": "d2dd6d6d-13ed-4b33-930d-6b98e8046db5",
                         "mitigationValue": 60.0,
                         "name": "Intervention #2",
                         "timeRange": {

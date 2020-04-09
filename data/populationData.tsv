@@ -180,6 +180,7 @@ USA-Pennsylvania	12820878	United States of America	37181	1239	Northern	None	None
 USA-New York	19440469	United States of America	52489	1750	Northern	None	None	None
 USA-Florida	21992985	United States of America	57182	1906	Northern	None	None	None
 USA-Texas	29472295	United States of America	67786	2260	Northern	None	None	None
+USA-CoastalBend	10000000	United States of America	10000	1000	Northern	None	None	None
 USA-California	39937489	United States of America	71887	2396	Northern	None	None	None
 India	1380004385	India	1376013	70000	Northern	None	None	None
 IND-Andhra Pradesh	52883163	India	23138	2278	Northern	None	None	ICU beds not available at state level for India, estimated using India’s approx 70,000 ICU beds and state population size
